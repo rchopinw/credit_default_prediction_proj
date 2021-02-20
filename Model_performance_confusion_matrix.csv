@@ -1,0 +1,3 @@
+﻿,isFraud=0 (Predicted),isFraud=1 (Predicted)
+isFraud=0 (True),191485,39241
+isFraud=1 (True),1525,2112
